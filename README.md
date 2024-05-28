@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**isabelly2e/Isabelly2e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabelly de Souza
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos seus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📧
+
+   0001107236241sp@aluno.educacao.sp.gov.br
+
+
+   
